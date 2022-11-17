@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.BoardAnyCar">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAgAQAIAAAAAAAAAAAAAQAAAAAAAIEAA=</HashCode>
+      <FileName>BoardAnyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.BoardBus">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAQAIAAAAAAAAAAAAAQAAAAAAAIEAA=</HashCode>
+      <FileName>BoardBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.BoardTax">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAQAIAAAAAAAAAAAAAQAAAAAAAIEAA=</HashCode>
+      <FileName>BoardTax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Board">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.BoardOutOfTownBus">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAQAIAAAAAAAAAAAAAQAAAAAAAIEAA=</HashCode>
+      <FileName>BoardOutOfTownBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
