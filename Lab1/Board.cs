@@ -13,6 +13,7 @@ namespace Lab1
             while(all.ps.Count< board.countPlace)
                 all.ps.Add(board.BoardPassenger());
             return all;
+            
         }
     }
 }
